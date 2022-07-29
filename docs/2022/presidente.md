@@ -4,10 +4,10 @@
 
 ### Lista
 
-| Chapa | Número | Presidente                     | Vice                  | Plano de Governo                                 |
+| Chapa | Número | Presidente                     | Vice                  | Plano de Governo / Diretrizes                                |
 |-------|--------|--------------------------------|-----------------------|--------------------------------------------------|
 |       | 12     | Ciro Gomes (PDT)               |                       |                                                  |
-|       | 13     | Luiz Inácio Lula da Silva (PT) | Geraldo Alckmin (PSB) | [aqui](https://lula.com.br/plano-pt-de-governo/) |
+| [Vamos juntos pelo Brasil][juntospelobrasil] | 13     | Luiz Inácio Lula da Silva (PT) | Geraldo Alckmin (PSB) | diretrizes - [site][jpb-diretrizes-site], [pdf][jpb-diretrizes-pdf] |
 |       | 15     | Simone Tebet (MDB)             |                       |                                                  |
 |       | 16     | Vera Lúcia (PSTU)              |                       | [aqui](https://vera.pstu.org.br/programa)        |
 |       | 21     | Sofia Manzano (PCB)            |                       |                                                  |
@@ -17,6 +17,10 @@
 |       | 70     | André Janones (AVANTE)         |                       |                                                  |
 |       | 80     | Leonardo Péricles (UP)         |                       |                                                  |
 |       | 90     | Pablo Marçal (PROS)            |                       |                                                  |
+
+[juntospelobrasil]: https://www.programajuntospelobrasil.com.br/
+[jpb-diretrizes-site]: https://www.programajuntospelobrasil.com.br/diretrizes/
+[jpb-diretrizes-pdf]: https://www.programajuntospelobrasil.com.br/wp-content/uploads/2022/06/documento-diretrizes-programaticas-vamos-juntos-pelo-brasil-20.06.22.pdf
 
 ### Jair Messias Bolsonaro
 
